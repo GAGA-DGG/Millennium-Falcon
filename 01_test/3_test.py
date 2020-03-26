@@ -1,0 +1,1 @@
+import pytest# def func(a=1, b=3, c=2):#     return a + b + c## print(func())# @pytest.fixture(params=[{"author":"alice"}, {"project_slug":"hello world"}]def test_one(): name = "Den" surname = "Scrach my eggs " print("Hello " + name + " " + surname)# @pytest.fixture(print())
